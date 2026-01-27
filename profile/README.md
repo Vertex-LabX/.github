@@ -64,7 +64,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,html,css,nodejs,express,mongodb,mysql,sqlite,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,html,css,nodejs,express,mongodb,mysql,sqlite,docker,git,rust, go, figma" />
 </div>
 
 <br />
